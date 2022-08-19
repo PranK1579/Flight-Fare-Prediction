@@ -1,4 +1,4 @@
-# Movie-Recommendation-System-Using-Python
+# Movie-Recommendation-System-Using-Pandas
  In this python project where using Pandas library we will find correlation and created basic Movie Recommender System with Python.
  
 dataset named 'movietites' contains a long list of movie names and dataset name 'dataset' contains user ID, average rating out of 5 and total number of ratings.
